@@ -1,0 +1,13 @@
+{
+  "name": "git-calendar-decorator",
+  "version": "1.0.0",
+  "description": "GitHub Calendar Decorator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:Victomas97/git-calendar-decorator.git",
+  "author": "Victomas97 <victomas@outlook.es>",
+  "license": "MIT",
+  "private": false
+}
